@@ -99,6 +99,7 @@ dunst                                                                         1.
 e2fsprogs                                                                     1.47.2-3ubuntu4                        deb                         
 effectcraft                                                                   0.11.1-1                               deb                         
 fastapi                                                                       0.143.3                                python                      
+figcraft                                                                      0.7.0-1                                deb                         
 file                                                                          1:5.46-5build2                         deb                         
 filmcraft                                                                     0.9.0-1                                deb                         
 findutils                                                                     4.10.0-3build2                         deb                         
