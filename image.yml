@@ -10,6 +10,9 @@ upstream:
   version:
     type: github_release
     repo: storytold/photocraft
+    require_assets:
+      - asset: '^photocraft\-.*\-linux\-x86_64\.deb$'
+      - asset: '^photocraft\-.*\-linux\-aarch64\.deb$'
   notes:
     type: github_release
     repo: storytold/photocraft
